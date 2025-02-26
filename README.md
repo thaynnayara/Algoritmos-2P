@@ -1,3 +1,1 @@
-#aprendendo Git
-*comando git pull
-*comando git fetch
+# Aprendendo fundamentos de C-ANSI no segundo período da faculdade de ADS.
